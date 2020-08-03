@@ -1,7 +1,7 @@
 # PyLadies_Chennai
-PyLadies Chennai
-Events
-Organizers
-Volunteers
-Resources
-Contact Us/Twitter Feeds
+PyLadies Chennai<br>
+Events<br>
+Organizers<br>
+Volunteers<br>
+Resources<br>
+Contact Us/Twitter Feeds<br>
